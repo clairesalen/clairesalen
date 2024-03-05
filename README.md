@@ -1,4 +1,6 @@
-# hi, im claire ![image](https://github.com/images/mona-whisper.gif)
+![image](https://github.com/images/mona-whisper.gif)
+
+# hi, im claire
 i'm claire, a 15 year old college student working two full time remote jobs. hmu uwu
 - software developer
 - studied business management at de la salle university - manila, philippines
