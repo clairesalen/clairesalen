@@ -3,11 +3,11 @@
 <h1 align="center">hi, i'm claire!</h1>
 
 i'm claire, a 21 year old college student working as a business development intern at coins.ph. hmu for intern roles uwu
- 🏹 studying applied corporate management at de la salle university - manila, philippines
- 💼 previously worked at bytedance, tiktok, henkel, metaversego 
- 📸 loves shooting vlogs at youtube and tiktok ♡
- 🎨 also a graphic designer and video editor 
- 💻 currently learning digital management !
+- 🏹 studying applied corporate management at de la salle university - manila, philippines
+- 💼 previously worked at bytedance, tiktok, henkel, metaversego 
+- 📸 loves shooting vlogs at youtube and tiktok ♡
+- 🎨 also a graphic designer and video editor 
+- 💻 currently learning digital management !
 
 <h1 align="center">tech stack</h1>
 
