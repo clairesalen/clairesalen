@@ -1,20 +1,20 @@
 <p align="center"><img src="https://github.com/images/mona-whisper.gif"></img></p>
 
-<h1 align="center">hi, im claire</h1>
+<h1 align="center">hi, i'm claire!</h1>
 
-i'm claire, a 15 year old college student working two full time remote jobs. hmu uwu
-- software developer
-- studied business management at de la salle university - manila, philippines
-- loves making vlogs at youtube and tiktok
-- currently learning data science !
+i'm claire, a 21 year old college student working as a business development intern at coins.ph. hmu for intern roles uwu
+- studying applied corporate management at de la salle university - manila, philippines
+- previously worked at bytedance, tiktok, henkel, metaversego
+- loves shooting vlogs at youtube and tiktok ♡
+- also a graphic designer and video editor 
+- currently learning digital management !
 
 <h1 align="center">tech stack</h1>
 
-![name here](https://img.shields.io/badge/99designs-FE5F50.svg?style=for-the-badge&logo=99designs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) ![Indesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
 <h1 align="center">goals</h1>
 
-- [ ] learn tensorflow
+- [ ] learn figma 
 - [x] get 10M worth of NFTs
 - [x] be a girlboss
