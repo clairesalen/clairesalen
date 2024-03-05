@@ -1,4 +1,4 @@
-![image](https://github.com/images/mona-whisper.gif)
+<p align="center"><img src="https://github.com/images/mona-whisper.gif"></img></p>
 
 # hi, im claire
 i'm claire, a 15 year old college student working two full time remote jobs. hmu uwu
