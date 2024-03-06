@@ -4,7 +4,7 @@
 
 i'm claire, a 21 year old college student working as a business development intern at coins.ph. hmu for intern roles uwu
 - 🏹 studying applied corporate management at de la salle university - manila, philippines
-- 💼 previously worked at bytedance, tiktok, henkel, metaversego 
+- 💼 previously worked at ![Bytedance](https://img.shields.io/badge/ByteDance-3C8CFF.svg?style=for-the-badge&logo=ByteDance&logoColor=white) ![tiktok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white), henkel, metaversego 
 - 📸 loves shooting vlogs at youtube and tiktok ♡
 - 🎨 also a graphic designer and video editor 
 - 💻 currently learning digital management !
